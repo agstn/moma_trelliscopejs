@@ -3,10 +3,10 @@ __loadDisplayList__408b111([
     "group": "common",
     "name": "MOMA_Collection",
     "desc": "The Museum of Modern Art (MoMA) Collection",
-    "n": 1063,
+    "n": 1060,
     "height": 500,
     "width": 500,
-    "updated": "2017-11-20 11:07:48",
-    "keySig": "af3392bb6f87e9b26962576a0d81e06e"
+    "updated": "2017-11-21 11:01:52",
+    "keySig": "9a6603c6c16a1e009435e3fae99c4d0e"
   }
 ])
