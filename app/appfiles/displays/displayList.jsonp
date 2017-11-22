@@ -1,0 +1,12 @@
+__loadDisplayList__77aad75b([
+  {
+    "group": "common",
+    "name": "MOMA_Collection",
+    "desc": "The Museum of Modern Art (MoMA) Collection",
+    "n": 74377,
+    "height": 500,
+    "width": 500,
+    "updated": "2017-11-22 03:56:55",
+    "keySig": "e3213b88549f44dc1689a1f5321edb11"
+  }
+])

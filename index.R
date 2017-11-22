@@ -1,4 +1,4 @@
-## install trelliscopejs
+## install trelliscopejs  
 #devtools::install_github("hafen/trelliscopejs")
 
 ## Load packages
@@ -31,5 +31,5 @@ Artwrks2 %>%
               desc = "The Museum of Modern Art (MoMA) Collection",
               nrow = 3, ncol = 7,
               state = list(labels = c("Artist","URL_artist","Title","URL_piece")),
-              path = "moma")
+              path = "app")
 
