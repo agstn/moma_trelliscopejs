@@ -1,7 +1,0 @@
-vname: "Trelliscope example"
-output_dir: "."
-navbar:
-  title: "Trelliscope example"
-  left:
-    - text: "Home"
-      href: index.html 
