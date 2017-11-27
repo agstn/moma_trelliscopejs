@@ -15,8 +15,10 @@ Artwrks2 <- Artwrks1 %>%
   select(Title, ThumbnailURL, URL, 
          Artist, ConstituentID, Nationality, Gender,
          Medium, Classification, Department,
-         Dimensions, `Height (cm)`, `Width (cm)`) %>%
+       #  Dimensions, 
+         `Height (cm)`, `Width (cm)`) %>%
   mutate(Nationality = str_replace_all(Nationality,"[()]",""),
+         `Aspect Ratio` = `Height (cm)`/`Width (cm)`,
          Gender = str_replace_all(Gender, "[()]",""),
          URL_artist = paste0("https://www.moma.org/artists/",ConstituentID),
          URL_piece = as.character(URL) %>% str_replace("http://","https://")) %>% 
