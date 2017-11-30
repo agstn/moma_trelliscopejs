@@ -1,8 +1,9 @@
-# App to interface The Museum of Modern Art (MoMA) Collection 
+# App to interface The Museum of Modern Art (MoMA) Collection
 
-The goal of this repo is to illustrate the use of [trelliscopejs](https://hafen.github.io/trelliscopejs/) 
-by [Ryan Hafen](http://ryanhafen.com/) to inteface The Museum of Modern Art ([MoMA](https://www.moma.org/collection/)) Collection 
-[repo](https://github.com/MuseumofModernArt/collection) containing the catalogued works of art from the musemum collection.
+Trelliscope is a powerful, scalable, interactive approach to data visualization. The idea behind trelliscope is strongly embedded in the small multiples or trellis display, where data are split into groups and displayed into a grid and especially suitable for visualizing large datasets. Trelliscope was developed by [Ryan Hafen](http://ryanhafen.com/). Details can be found in [Ryan’s presentation Modern Approaches to Data Exploration with Trellis Display](http://slides.com/hafen/trelliscopejs).
+
+The Museum of Modern Art (MoMA) Collection contains a collaction of 200,000 works of art from around the word spanning the last 150 years. The Museum’s [website](https://www.moma.org/collection/)  features 76,053 artworks from 21,635 artists. The museum made their Artwork data publicly available through [Github](https://github.com/MuseumofModernArt/collection). 
+
 
 ## Data Wrangling in R
 
