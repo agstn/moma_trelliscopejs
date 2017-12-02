@@ -16,10 +16,10 @@ Artwrks2 <- Artwrks1 %>%
           Medium, Classification, Department,
           `Height (cm)`, `Width (cm)`) %>%
   mutate( Nationality = str_replace_all(Nationality,"[()]",""),
-          `Aspect Ratio` = ifelse(`Height (cm)`>0 & `Width (cm)`>0, `Height (cm)`/`Width (cm)`,NA),
+          `Aspect Ratio` = ifelse(`Height (cm)`>0 & `Width (cm)`>0, `Width (cm)`/`Height (cm)`,NA),
           Gender = str_replace_all(Gender, "[()]",""),
           URL_artist = paste0("https://www.moma.org/artists/",ConstituentID),
-          URL_piece = as.character(URL) %>% str_replace("http://","https://")) %>% 
+          URL_piece = as.character(URL) %>% str_replace("http://","https://")) %>%
   filter( URL_piece != "NA") %>%
   mutate( panel = img_panel(ThumbnailURL),
           URL_piece = ifelse(is.na(URL_piece), "http://www.moma.org/collection/works", URL_piece)) %>% 
