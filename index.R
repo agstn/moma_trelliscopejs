@@ -1,5 +1,5 @@
 ## install trelliscopejs  
-#devtools::install_github("hafen/trelliscopejs")
+# devtools::install_github("hafen/trelliscopejs")
 
 ## Load packages
 pacman::p_load(tidyverse)
@@ -23,7 +23,7 @@ Artwrks2 <- Artwrks1 %>%
   filter( URL_piece != "NA") %>%
   mutate( panel = img_panel(ThumbnailURL),
           URL_piece = ifelse(is.na(URL_piece), "http://www.moma.org/collection/works", URL_piece)) %>% 
-  select(-ConstituentID, -URL,-ThumbnailURL)
+  select(-ConstituentID)
 
 ##  run trelliscope
 Artwrks2 %>% 
