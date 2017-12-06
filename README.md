@@ -30,10 +30,23 @@ library(tidyverse)
 library(trelliscopejs)
 ```
 
-<figure>
-  <img src="https://github.com/agstn/moma_trelliscopejs/blob/master/img/FireShot Capture 2 agstn.github.io_moma_trelliscopejs_app.png" 
-       align="center">
-</figure>
+### Launch the Visualization App
+![Capture2](https://github.com/agstn/moma_trelliscopejs/blob/master/img/FireShot%20Capture%202%20agstn.github.io_moma_trelliscopejs_app.png)
 
+### Left / Right Help
+![Capture3](https://github.com/agstn/moma_trelliscopejs/blob/master/img/FireShot%20Capture%203%20agstn.github.io_moma_trelliscopejs_app.png)
 
+![Capture5](https://github.com/agstn/moma_trelliscopejs/blob/master/img/FireShot%20Capture%205%20agstn.github.io_moma_trelliscopejs_app_.png)
+
+### Grid
+![Capture6](https://github.com/agstn/moma_trelliscopejs/blob/master/img/FireShot%20Capture%206%20agstn.github.io_moma_trelliscopejs_app_.png)
+
+### Label
+![Capture7](https://github.com/agstn/moma_trelliscopejs/blob/master/img/FireShot%20Capture%207%20agstn.github.io_moma_trelliscopejs_app_.png)
+
+### Filter
+![Capture8](https://github.com/agstn/moma_trelliscopejs/blob/master/img/FireShot%20Capture%208%20agstn.github.io_moma_trelliscopejs_app_.png)
+
+### Sort
+![Capture9](https://github.com/agstn/moma_trelliscopejs/blob/master/img/FireShot%20Capture%209%20agstn.github.io_moma_trelliscopejs_app_.png)
 
