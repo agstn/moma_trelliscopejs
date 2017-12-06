@@ -1,5 +1,4 @@
-# App to interface The Museum of Modern Art (MoMA) Collection
-
+## Visulization App for The Museum of Modern Art (MoMA) Collection
 
   <figure>
   <img src="https://github.com/agstn/moma_trelliscopejs/blob/master/img/DOjIQBeX0AE3iuh.jpg" 
@@ -8,8 +7,7 @@
     <a href="https://twitter.com/BauhausMovement/status/930213508041592833"> Source: Bauhaus Movement</a> 
   </figcaption>
   </figure>
-  
-
+   <br><br>
 
 Trelliscope is a powerful, scalable, interactive approach to data visualization. The idea behind trelliscope is strongly embedded in the small multiples or trellis display, where data are split into groups and displayed into a grid and especially suitable for visualizing large datasets. Trelliscope was developed by [Ryan Hafen](http://ryanhafen.com/). Details can be found in [Ryan’s presentation Modern Approaches to Data Exploration with Trellis Display](http://slides.com/hafen/trelliscopejs).
 
