@@ -84,12 +84,16 @@ path = "~/moma_trelliscopejs/app")
 
 ### Launch the Visualization App
 Our resulting visualization can be accessed using the following [link]( https://agstn.github.io/moma_trelliscopejs/app/). The application is optimized to be quick. Case in point, the 75000 thousand curated artworks from this collection takes no more than 20 seconds to load using a decent internet connection. 
+
 ![Capture2](img/FireShotCapture2agstn.github.io_moma_trelliscopejs_app.png)
 
 ### Left / Right Help
 Using the link at the top left of the app we can display information about the database. 
+
 ![Capture3](img/FireShotCapture3agstn.github.io_moma_trelliscopejs_app.png)
+
 Similarly, the link on the top right-hand side will guide us through the instructions for navigating the visualization app.  We will briefly describe some of its more important features below. 
+
 ![Capture5](img/FireShotCapture5agstn.github.io_moma_trelliscopejs_app_.png)
 
 ### Grid
@@ -98,13 +102,16 @@ The grid sidebar option is used to specify the layout of the grid of panels one 
 
 ### Labels
 The labels sidebar option lets you specify the artwork metrics that you wish to display by clicking the checkboxes. By default, the visualization app displays the title of the piece, the artist and their respective links on the MoMA website. Here we add the aspect ratio to the display.
+
 ![Capture7](img/FireShotCapture7agstn.github.io_moma_trelliscopejs_app_.png)
 
 ### Filter
 The filter sidebar option lets the user subset the display using any of the variables stored in the database. Barcharts and histograms are used for categorical and numeric variables, respectively, to represent the frequency of pieces that meet each filter condition. Below, we filtered the collection to all paintings by Pablo Picasso. There is a total of 55 pieces that fit these two conditions in the collection.
+
 ![Capture8](img/FireShotCapture8agstn.github.io_moma_trelliscopejs_app_.png)
 
 ### Sort
 Finally, the sort sidebar option lets the user specify the ordering of the panels.  One or more variables can be selected to sort upon, and the blue arrow dictates the direction of the ordering (ascending/descending). In the following example, we sort paintings by Picasso from largest to smallest aspect ratio. The first panel shows his painting with the largest aspect ratio while the last one shows his smallest, which in this case is a square.
+
 ![Capture9](img/FireShotCapture9agstn.github.io_moma_trelliscopejs_app_.png)
 
