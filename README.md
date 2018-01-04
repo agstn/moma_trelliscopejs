@@ -10,7 +10,7 @@ align="center" height="454" width="250" >
 <br><br>
 
 ### What is Trelliscope?
-Trelliscope is a powerful, scalable, interactive approach to data visualization. The idea behind trelliscope is strongly embedded in the small multiples or trellis display, where data are split into groups and displayed into a grid. This technique is especially suitable for visualizing large datasets and making comparisons easier. Trelliscope was developed by  [Ryan Hafen](http://ryanhafen.com/) and further details can be found in [Ryan’s presentation Modern Approaches to Data Exploration with Trellis Display](http://slides.com/hafen/trelliscopejs).
+Trelliscope is a powerful, scalable, interactive approach to data visualization. The idea behind trelliscope is strongly embedded in the small multiples or trellis display, where data are split into groups and displayed into a grid. This technique is especially suitable for visualizing large datasets and making comparisons easier. Trelliscope was developed by  [Ryan Hafen](http://ryanhafen.com/) and further details can be found in [Ryan’s presentation: Modern Approaches to Data Exploration with Trellis Display](http://slides.com/hafen/trelliscopejs).
 
 ### The MoMA Collection
 The Museum of Modern Art (MoMA) Collection contains nearly 200,000 works of art from around the world spanning the last 150 years. The Museum’s [website](https://www.moma.org/collection/) features 76,053 pieces from 21,635 artists. The museum made their artwork data publicly available through [GitHub]( https://github.com/MuseumofModernArt/collection) [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.1069127.svg)](http://dx.doi.org/10.5281/zenodo.1069127).
